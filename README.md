@@ -1,8 +1,9 @@
-#SCANNER VERS LISTE DE COURSE
+# SCANNER VERS LISTE DE COURSE
 
-##OBJECTIF :
+## OBJECTIF :
 Utiliser un scanner de code barre de récupération pour scanner des codes barres et imprimer une liste de course.
 
-##MATERIEL :
+## MATERIEL :
 - DATALOGIC QuickScan (Scanner)
 - (Imprimante thermique)
+- Un PC
